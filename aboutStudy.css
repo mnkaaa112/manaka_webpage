@@ -1,0 +1,57 @@
+.main_img{
+    margin-top: 3%;
+    padding-top: 0%;
+    text-align: center;
+    position: absolute;
+    bottom: 63%;
+    left: 0%;
+}
+
+.main{
+    background-color: #E5E5E5;
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-top: 8%;
+    margin-bottom: 5%;
+    padding-top: 8%;
+    padding-bottom: 5%;
+    position: relative;
+    font-family: 'Mate', serif;
+}
+
+.title{
+    text-align: center;
+}
+
+.activity{
+    padding-top: 5%;
+    padding-left: 10%;
+    text-align: left;
+}
+
+.activity p{
+    line-height: 10px;
+}
+
+.skill{
+    padding-right: 15%;
+    text-align: right;
+    line-height: 20px;
+    font-size: 20px;
+}
+
+.skill img{
+    padding-right: 20%;
+}
+
+h1{
+    font-family: 'DotGothic16', sans-serif;
+}
+
+.idea p{
+    margin-left: 17%;
+}
+
+.idea img{
+    margin-left: 2%;
+}
